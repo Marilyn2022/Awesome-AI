@@ -4,16 +4,24 @@
   <img src="https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/Awesomegpt_Logo2.png" width="148" height="148"/>
 </p>
 <h1 align="center">Awesome AI</h1>
+
 打造切实有用《人工智能指南》，开源免费，持续更新，保持日更！
+
 &nbsp;
+
 ## 公告
+
 <br/>
+
 ### 域名转移
 因com域名无节操逐年涨价，目前涨价到了一年85元，太不要脸了，决定出售com域名，启用新域名：https://www.205066.xyz
+
 <br/>
 <br/>
+
 ### 本项目
 本项目为临时项目，主要是为了做新域名：https://www.205066.xyz的引导页，不能让com域名闲置着，在出售或者到期之前，继续发挥它的价值。
+
 ##  一、官方网站
 
 <br/>
