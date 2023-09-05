@@ -8,22 +8,30 @@
 
 &nbsp;
 
-## 公告
+## 资源入口汇总
 
 <br/>
 
-### 域名转移
+资源库：www.205066.xyz
 
-因com域名无节操逐年涨价，目前涨价到了一年85元，太不要脸了，决定出售com域名，启用新域名：https://www.205066.xyz
+播放壳和接口导航：www.203511.xyz
 
-<br/>
+TVbox接口：https://tv.203511.xyz/0821.json
 
-<br/>
+软件周刊：tsq360.tk
 
-### 本项目
+每日互联网早报
+news.205066.xyz
 
-本项目为临时项目，主要是引导到新域名：https://www.205066.xyz
-不能让com域名闲置着，在出售或者到期之前，继续发挥它的价值。
+ChatGPT项目大全  http://tsq360.cf/Awesome-AI/
+
+ChatGPT反代镜像站
+chat.tsq360.tk
+
+QQ频道：有料黑科技
+
+区块链博客
+https://opnpuss.xlog.app/
 
 <br/>
 
